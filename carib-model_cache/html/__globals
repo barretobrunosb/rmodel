@@ -1,5 +1,0 @@
-raw_data	$	$<-	factor	read.csv
-calibration	$	==	c	c14dates	calibrate	culture	intcal20	shcal20	subset
-SPD_model	c14calibration_koriabo	spd	timeRange
-plot_SPD	
-binning_SPD	$	::	c14calibration_koriabo	c14koriabo	timeRange
