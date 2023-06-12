@@ -1,4 +1,4 @@
-who,"color","heading","xcor","ycor","shape","label","label-color","breed","hidden?","size","pen-size","pen-mode","name","sitetype","period"	
+who,color,heading,xcor,ycor,shape,label,label-color,breed,hidden?,size,pen-size,pen-mode,name,sitetype,period	
 0,"65","156","203.93356581745226","70.80436172924159","""dot""","""""","9.9","{breed sites}","false","1","1","""up""","""Hagia Eirene""","""2 tholoi""","""EMIII-MMIA"""	
 1,"95","333","88.93558604146236","37.90551820023073","""dot""","""""","9.9","{breed sites}","false","1","1","""up""","""Kaminospilio""","""tholos""","""EMIII-MMIA"""	
 2,"45","294","34.131814583107996","81.98799528114185","""dot""","""""","9.9","{breed sites}","false","1","1","""up""","""hamlet (Kommos Survey)""","""Farm(s)""","""EMIII-MMIA"""	
